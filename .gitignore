@@ -1,0 +1,11 @@
+LoginScreen.class
+Main.class
+Movie.class
+MovieManager.class
+MoviePanel.class
+RatingScreen.class
+User.class
+UserManager.class
+MoreMovieData.csv
+movieFilePath.csv
+NamAndPass.csv
