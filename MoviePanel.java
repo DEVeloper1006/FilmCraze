@@ -1,4 +1,4 @@
-//Written By: Mihir Gandhi
+//Written By: Dev M.
 // Janurary 16, 2022
 //Class which creates a movie panel which contains the poster, average rating, movie name, and a JComboBox to update the rating.
 //This class also update the movie data when ratings are updated 
