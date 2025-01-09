@@ -50,7 +50,7 @@ FilmCraze is a Java-based desktop application designed to provide a personalized
 ## Setup and Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/filmcraze.git
+   git clone https://github.com/DEVeloper1006/filmcraze.git
    ```
 2. **Compile the Java Files**:
    ```bash
