@@ -1,4 +1,4 @@
-//Written By: Mihir Gandhi
+//Written By: Dev Mody
 //Date Started and Completed: January 11, 2022
 //This class is used to read, add, and modify the different files while also changing data within the user linked list  
 
