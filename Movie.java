@@ -1,5 +1,5 @@
 /*
-Written by Kai Olsen
+Written by Dev M.
 Date Started & Completed: January 12th, 2022
 This class is an object-oriented class containing the following encapsulated properties for one movie:
 movieNam --> movie name
