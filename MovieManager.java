@@ -1,5 +1,5 @@
 /*
-Written by Dev, Mihir & Kai
+Written by Dev M.
 Date Started: January 12th, 2022
 Date Completed: January 26th, 2022
 This class is used to generate a particular array of movies, and must be able to sort them as well.
