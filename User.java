@@ -1,5 +1,5 @@
 /*
-Written by Kai Olsen
+Written by Dev Mody
 Date Started and Completed: January 10th, 2022
 This class is an object-oriented class containing the following encapsulated properties of one User:
 username --> username
